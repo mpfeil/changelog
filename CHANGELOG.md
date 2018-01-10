@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="2.0.0"></a>
+# [2.0.0](https://github.com/mpfeil/changelog/compare/v1.1.2...v2.0.0) (2018-01-10)
+
+
+### Features
+
+* **new new:** all new brand new foo bar ([ce5880b](https://github.com/mpfeil/changelog/commit/ce5880b))
+
+
+### BREAKING CHANGES
+
+* **new new:** asdqweqweqweqwe
+
+
+
 <a name="1.1.2"></a>
 ## [1.1.2](https://github.com/mpfeil/changelog/compare/v1.1.1...v1.1.2) (2018-01-10)
 
