@@ -1,6 +1,6 @@
 {
   "name": "changelog",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,7 @@
   "homepage": "https://github.com/mpfeil/changelog#readme",
   "devDependencies": {
     "commitizen": "^2.9.6",
+    "conventional-changelog": "^1.1.7",
     "cz-conventional-changelog": "^2.1.0",
     "standard-version": "^4.3.0"
   },
